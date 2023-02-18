@@ -1,3 +1,6 @@
+## written by cosmos zhong    plagiarism   by zilin chen
+#直接跑就好奶奶都能玩
+
 import getpass, os
 
 num_votes = {5:[2,3,2,3,3],6:[2,3,4,3,3],7:[2,3,3,4,4],8:[3,4,4,5,5],9:[3,4,4,5,5],10:[3,4,4,5,5]}
