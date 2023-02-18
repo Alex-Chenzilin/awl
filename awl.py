@@ -1,4 +1,4 @@
-## written by cosmos zhong    plagiarism   by zilin chen
+## written by cosmos zhong    plagiarism  and improved by zilin chen
 #直接跑就好奶奶都能玩
 
 import getpass, os
